@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APieShopHRM", "APieShopHRM\APieShopHRM.csproj", "{F25F7899-FBB0-43E7-A0CA-4AE9AEB628F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F25F7899-FBB0-43E7-A0CA-4AE9AEB628F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25F7899-FBB0-43E7-A0CA-4AE9AEB628F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25F7899-FBB0-43E7-A0CA-4AE9AEB628F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25F7899-FBB0-43E7-A0CA-4AE9AEB628F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBAD4853-4EEC-400C-9B24-BF9FBB6947A9}
+	EndGlobalSection
+EndGlobal
