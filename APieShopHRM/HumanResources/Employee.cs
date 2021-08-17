@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace APieShopHRM
+namespace APieShopHRM.HumanResources
 {
   public class Employee
   {

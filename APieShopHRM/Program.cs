@@ -1,4 +1,5 @@
-﻿using System;
+﻿using APieShopHRM.HumanResources;
+using System;
 using System.Collections.Generic;
 
 namespace APieShopHRM

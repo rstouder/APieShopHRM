@@ -1,4 +1,4 @@
-﻿namespace APieShopHRM
+﻿namespace APieShopHRM.HumanResources
 {
   public enum EmployeeType
   {
